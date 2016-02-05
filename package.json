@@ -1,0 +1,11 @@
+{
+  "name": "dummysay",
+  "version": "1.0.0",
+  "description": "A talking dummy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Plou",
+  "license": "BSD"
+}
