@@ -1,11 +1,21 @@
 {
   "name": "dummysay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A talking dummy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Plou",
-  "license": "BSD"
+  "license": "BSD",
+  "dependencies": {
+    "ansi-regex": "^2.0.0",
+    "ansi-styles": "^2.1.0",
+    "chalk": "^1.1.1",
+    "pad-component": "0.0.1",
+    "repeating": "^2.0.0",
+    "string-width": "^1.0.1",
+    "strip-ansi": "^3.0.0",
+    "word-wrap": "^1.1.0"
+  }
 }
